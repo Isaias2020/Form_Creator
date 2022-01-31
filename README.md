@@ -10,6 +10,8 @@ This webpage allows the user to create a form with the following inputs:
 * Occupation
 * State
 
+Link to deployed [application](https://isaias2020.github.io/Form_Creator/).
+
 ## Tools/Technologies Used
 * [JavaScript](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/download/)
