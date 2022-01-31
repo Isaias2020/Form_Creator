@@ -45,3 +45,10 @@ body {
     justify-content: center;
     margin-bottom: 10px;
 }
+
+p {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    color: green;
+}
